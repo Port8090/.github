@@ -1,6 +1,6 @@
-# Port:8090 구성원 프로필
+# Port:8090
 
-### 🍀 Member
+## 🍀 Member
 
 <table>
   <tbody>
