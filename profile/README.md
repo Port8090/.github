@@ -27,6 +27,34 @@
 
 ### 🛠 개발환경 및 아키텍쳐
 
+<details>
+<summary>1차 기술스택</summary>
+
+1. Model (예정)
+    - Object Detection - 이미지 검출
+    - LLM
+    - 의사결정트리
+2. Crawling
+    - 데이터 확보 
+3. Web
+    - SpringBoot
+      - Gradle / Thymeleaf
+      - Django
+      - API
+      - 학습모델
+4. Database
+    - MySQL
+5. 시각화
+    - 추세
+    - 리뷰 빈도
+6. 분석
+    - pandas
+7. 스케줄링
+    - Airflow
+
+</details>
+
+
 ### 🌐 ERD
 
 ### 📒 주요기능
