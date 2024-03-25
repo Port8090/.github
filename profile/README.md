@@ -33,19 +33,19 @@ https://github.com/hyul77/hyul77/assets/100561170/3c5fdb8a-b6a2-4531-bd05-b1906a
 
 
 ### 🛠 개발환경 및 아키텍쳐
-![stack](./stack.png)
+![stack](./profile/stack.png)
 
 ### 🌐 ERD
-![erd](./erd.png)
+![erd](./profile/erd.png)
 
 ### 📒 주요기능
 ### 1. 이미지 분류 및 분석
-![func1](./function1_f.png)
+![func1](./profile/function1_f.png)
 ### 2. 개인의 영양정보 시각화
-![func2](./function2_1f.png)
-![func2](./function2_2f.png)
+![func2](./profile/function2_1f.png)
+![func2](./profile/function2_2f.png)
 ### 3. 상황에 맞는 음식점 추천 (키워드)
-![func3](./function3.png)
+![func3](./profile/function3.png)
 
 ### 🌟 활용방안 및 기대효과
 - 매일 업데이트 되는 대형사이트의 리뷰를 수집, 분석하여 철저히 소비자 관점에 맞춘 음식점을 제안할 수 있다.
